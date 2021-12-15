@@ -1,5 +1,7 @@
 var objectFitImages = (function () {
 	'use strict';
+	var hhhhh;
+	var hhhhllll;
 	
 	var OFI = 'bfred-it:object-fit-images';
 	var propRegex = /(object-fit|object-position)\s*:\s*([-\w\s%]+)/g;
